@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://snoicson.github.io/sitemap.html.gz
+Sitemap: https://snoicson.github.io/app/sitemap.html.gz
+Sitemap: https://snoicson.github.io/assets/sitemap.html.gz
+Sitemap: https://snoicson.github.io/css/sitemap.html.gz
+Sitemap: https://snoicson.github.io/includes/sitemap.html.gz
+Sitemap: https://snoicson.github.io/item/sitemap.html.gz
+Sitemap: https://snoicson.github.io/src/sitemap.html.gz
